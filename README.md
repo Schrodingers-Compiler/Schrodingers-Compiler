@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Schrodingers-Compiler
+- 👋 Hi, I’m Astro/Schwarz!
 - 👀 I’m interested in calculus, physics/astrophysics, computers, and music composition
 - 🌱 I’m currently learning precalculus (+ calc 1 and 2), coding in C, and much more
 - 💞️ I’m looking to collaborate on nothing at the moment, sort of just working as I go along :]
